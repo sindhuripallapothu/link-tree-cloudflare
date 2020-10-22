@@ -104,7 +104,7 @@ class ElementHandler {
             const init = { html: true }
             element.append(
                 `<a href="https://www.facebook.com" target="_blank">Link 1</a>
-            <a href="https://www.google.comm" target="_blank">Link 2</a>
+            <a href="https://www.google.com" target="_blank">Link 2</a>
             <a href="https://www.youtube.com" target="_blank">Link 3</a>`,
                 init
             )
