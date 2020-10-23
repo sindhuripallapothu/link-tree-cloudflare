@@ -80,6 +80,11 @@ class ElementHandler {
                                         <img width="70px" height="70px" src="https://simpleicons.org/icons/linkedin.svg" />
                                     </svg>
                                 </a>
+                                <a href="https://github.com/sindhuripallapothu" target="_blank">
+                                    <svg>
+                                        <img width="70px" height="70px" src="https://simpleicons.org/icons/github.svg" />
+                                    </svg>
+                                </a>
                             </div>`,
                 init
             )
