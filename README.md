@@ -1,4 +1,4 @@
-## URL to this wesite
+## URL to the wesite
 https://my-app.lsp201.workers.dev/
 
 
